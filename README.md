@@ -29,6 +29,7 @@ Este proyecto es una API construida con **ASP.NET Core 6** que descarga archivos
 
 1. Clona el repositorio:
    git clone https://github.com/AlexandroFP/Prueba-Backend.git
+   
    cd Prueba-Backend/Cenace.API
    
 2.Crea tu base de datos local y configura tu conexión en appsettings.json, por ejemplo:
